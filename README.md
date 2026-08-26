@@ -45,6 +45,14 @@ Each work below preserves its original DOI and links to independent discovery se
 - **Local PDF path:** `papers/hierarchical-topic-conditioned-routing-for-mixture-of-expert-language-models-htc.pdf`
 - **Discovery:** [Google Scholar](https://scholar.google.com/scholar?q=Hierarchical+Topic-Conditioned+Routing+for+Mixture-of-Expert+Language+Models+%28HTCR%29+%E2%80%93+Hypothesis+3) · [ResearchGate](https://www.researchgate.net/search/publication?q=Hierarchical+Topic-Conditioned+Routing+for+Mixture-of-Expert+Language+Models+%28HTCR%29+%E2%80%93+Hypothesis+3) · [Semantic Scholar](https://www.semanticscholar.org/search?q=Hierarchical+Topic-Conditioned+Routing+for+Mixture-of-Expert+Language+Models+%28HTCR%29+%E2%80%93+Hypothesis+3&sort=relevance) · [Crossref](https://search.crossref.org/?q=Hierarchical+Topic-Conditioned+Routing+for+Mixture-of-Expert+Language+Models+%28HTCR%29+%E2%80%93+Hypothesis+3) · [DataCite](https://commons.datacite.org/doi.org/10.6084/m9.figshare.32952662) · [Scite](https://scite.ai/search?q=Hierarchical+Topic-Conditioned+Routing+for+Mixture-of-Expert+Language+Models+%28HTCR%29+%E2%80%93+Hypothesis+3) · [OpenAlex](https://openalex.org/works?search=Hierarchical+Topic-Conditioned+Routing+for+Mixture-of-Expert+Language+Models+%28HTCR%29+%E2%80%93+Hypothesis+3)
 
+### Transforming Incident Response: The Role of Hugging Face Diffusers in Automating Cybersecurity Workflows
+
+- **Author:** Paulo H. Leocadio
+- **Original DOI:** [10.22541/au.177446759.98281679/v1](https://doi.org/10.22541/au.177446759.98281679/v1)
+- **Known versions in local bibliography:** base DOI only
+- **Local PDF path:** `papers/Transforming Incident Response.pdf`
+- **Discovery:** [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=10.22541%2Fau.177446759.98281679&btnG=) · [ResearchGate](https://www.researchgate.net/search.Search.html?query=Transforming+Incident+Response%3A+The+Role+of+Hugging+Face+Diffusers+in+Automating+Cybersecurity+Workflows&type=publication) · [Semantic Scholar](https://www.semanticscholar.org/search?q=10.22541%2Fau.177446759.98281679&sort=pub-date) · [Crossref](https://search.crossref.org/?from_ui=&q=Transforming+Incident+Response%3A+The+Role+of+Hugging+Face+Diffusers+in+Automating+Cybersecurity+Workflows) · [Scite](https://scite.ai/search?mode=all&q=Transforming%20Incident%20Response%3A%20The%20Role%20of%20Hugging%20Face%20Diffusers%20in%20Automating%20Cybersecurity%20Workflows) · [OpenAlex](https://openalex.org/works?search=Transforming+Incident+Response:+The+Role+of+Hugging+Face+Diffusers+in+Automating+Cybersecurity+Workflows&page=1&sort=relevance_score:desc)
+
 ## 2024
 
 ### Advancements in I​mplantable ​M​e​d​​i​ca​l Devices: A Comprehensive Analysis of Artificial Intelligence Integration, Adoption, and Applicability in Bio?Tech Innovations (Revised Version).
