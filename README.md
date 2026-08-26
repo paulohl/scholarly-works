@@ -83,6 +83,14 @@ Each work below preserves its original DOI and links to independent discovery se
 https://www.researchgate.net/publication/377729107_Advancements_in_Implantable_Medical_Devices_A_Comprehensive_Analysis_of_Artificial_Intelligence_Integration_Adoption_and_Applicability_in_Bio-Tech_Innovations
 https://doi.org/10.5121/ijcsit.2024.02101
 
+### 2024 -Revised Version A Comprehensive Analysis of Artificial Intelligence Integration, Adoption, and Applicability in Bio-Tech Innovations (Revised Version)
+February 2024 https://www.researchgate.net/publication/413585087_2024_-Revised_Version_A_Comprehensive_Analysis_of_Artificial_Intelligence_Integration_Adoption_and_Applicability_in_Bio-Tech_Innovations_Revised_Version
+DOI: 10.6084/M9.FIGSHARE.26277886
+
+### A Comprehensive Analysis of Artificial Intelligence Integration, Adoption, and Applicability in Bio-Tech Innovations (2024 -Revised Version)
+February 2024 https://www.researchgate.net/publication/413585087_2024_-Revised_Version_A_Comprehensive_Analysis_of_Artificial_Intelligence_Integration_Adoption_and_Applicability_in_Bio-Tech_Innovations_Revised_Version
+DOI: 10.6084/m9.figshare.26279518
+
 ## 2023
 
 ### Cardiac Pacemakers: The Route to Implantable Artificial Intelligence
