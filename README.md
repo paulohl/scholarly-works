@@ -79,6 +79,10 @@ Each work below preserves its original DOI and links to independent discovery se
 - **Local PDF path:** `papers/navigating-upwork-understanding-corporate-dynamics-and-unveiling-freelancer-real.pdf`
 - **Discovery:** [Google Scholar](https://scholar.google.com/scholar?q=NAVIGATING+UPWORK%3A+UNDERSTANDING+CORPORATE+DYNAMICS+AND+UNVEILING+FREELANCER+REALITIES+AMID+POLICY+DISRUPTION) · [ResearchGate](https://www.researchgate.net/search/publication?q=NAVIGATING+UPWORK%3A+UNDERSTANDING+CORPORATE+DYNAMICS+AND+UNVEILING+FREELANCER+REALITIES+AMID+POLICY+DISRUPTION) · [Semantic Scholar](https://www.semanticscholar.org/search?q=NAVIGATING+UPWORK%3A+UNDERSTANDING+CORPORATE+DYNAMICS+AND+UNVEILING+FREELANCER+REALITIES+AMID+POLICY+DISRUPTION&sort=relevance) · [Crossref](https://search.crossref.org/?q=NAVIGATING+UPWORK%3A+UNDERSTANDING+CORPORATE+DYNAMICS+AND+UNVEILING+FREELANCER+REALITIES+AMID+POLICY+DISRUPTION) · [DataCite](https://commons.datacite.org/doi.org/10.6084/m9.figshare.26308327) · [Scite](https://scite.ai/search?q=NAVIGATING+UPWORK%3A+UNDERSTANDING+CORPORATE+DYNAMICS+AND+UNVEILING+FREELANCER+REALITIES+AMID+POLICY+DISRUPTION) · [OpenAlex](https://openalex.org/works?search=NAVIGATING+UPWORK%3A+UNDERSTANDING+CORPORATE+DYNAMICS+AND+UNVEILING+FREELANCER+REALITIES+AMID+POLICY+DISRUPTION)
 
+### Advancements in Implantable Medical Devices: A Comprehensive Analysis of Artificial Intelligence Integration, Adoption, and Applicability in Bio-Tech Innovations
+https://www.researchgate.net/publication/377729107_Advancements_in_Implantable_Medical_Devices_A_Comprehensive_Analysis_of_Artificial_Intelligence_Integration_Adoption_and_Applicability_in_Bio-Tech_Innovations
+https://doi.org/10.5121/ijcsit.2024.02101
+
 ## 2023
 
 ### Cardiac Pacemakers: The Route to Implantable Artificial Intelligence
