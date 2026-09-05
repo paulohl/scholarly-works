@@ -14,7 +14,7 @@
 
 ### **Big Data and the U.S. Internal Revenue Service**
 
-**Published:** `[GIP] 빅데이터의 중요성- 미 국세청의 사례`  
+**Published:** \[GIP\] 빅데이터의 중요성- 미 국세청의 사례  
 **Venue:** NIPA — National IT Industry Promotion Agency, Global ICT Portal
 
 Early policy-oriented analysis of large-scale data systems in government.
@@ -169,6 +169,24 @@ Initiates a separate research line examining platform governance, corporate poli
 
 ---
 
+ 
+
+### **December 2024**
+
+**EXTERNAL UPTAKE · HEALTH POLICY · NETHERLANDS**
+
+### **CIED Research Enters Dutch Health-Policy Analysis**
+
+Researchers affiliated with the **Netherlands ministry of health, wellcare and sports** cite *Advancements in Implantable Medical Devices* in **“Een behandelplan voor medische innovatie** (19 December 2024\)**”**, specifically in connection with **future EU regulations on AI-driven cardiac pacemakers—systems capable of adapting to the individual needs of each patient**.
+
+**Source:** “[De impact van de AI-verordening op medische technologie onder de MDR en IVDR**​**](https://www.datavoorgezondheid.nl/site/binaries/site-content/collections/documents/2025/01/06/de-impact-van-de-ai-verordening-op-medische-technologie-onder-de-mdr-en-ivdr/rapport-vergelijkende-analyse-ai-act-en-mdr-ivdr.pdf)” · Vollebregt, Erik, Cécile van der Heijden, Theo Hooghiemstra, and Marlies van Eck. · [Netherlands Ministerie van VWS](https://www.datavoorgezondheid.nl/documenten/2025/01/06/de-impact-van-de-ai-verordening-op-medische-technologie-onder-de-mdr-en-ivdr) · https://lnkd.in/ebX78HG4
+
+**Research lineage:** *Advancements in Implantable Medical Devices* (2024)
+
+**Milestone:** *From research publication to health-policy analysis.*
+
+---
+
 # **2025 — Infrastructure Becomes Part of the Research Architecture**
 
 ### **October 2025**
@@ -279,17 +297,36 @@ Continues the platform-governance research stream initiated in 2024, moving from
 
 ---
 
+### **2026**
+
+**EXTERNAL UPTAKE · BIOENGINEERING · ARTIFICIAL ORGANS**
+
+### **Architecture Referenced in Implantable Artificial-Kidney Research**
+
+Researchers at **Guangdong Provincial Key Laboratory of Organ Donation and Transplant Immunology, Sun Yat-sen University, Guangzhou China** cite *Advancements in Implantable Medical Devices* in research concerning **Research Progress and Critical Challenges of Bioartificial Kidneys in Renal Replacement Therapy for End-Stage Renal Disease**. The work is referenced specifically in relation to framework, architecture and AI integration **(Intelligent management systems will optimize device performance, extend operational longevity, and ultimately facilitate personalized precision therapy and patient self-management**.
+
+**Source:** Biomolecules (2026, 16, 1161, Published by MDPI \- ISSN: 2218-273X) · Chen, L.; Zhang, Q.; Tu, Y.; Chen, T.; Xie, Y.; Lan, K.; Yan, W.; Xue, C.; Yu, S.; Qiu, J. · 10.3390/biom16081161
+
+**Research lineage:** *Advancements in Implantable Medical Devices* (2024)
+
+**Milestone:** *CIED framework crosses into renal bioengineering.*
+
+---
+
 ### **October 2026**
 
 **BOOK · AUTONOMOUS SYSTEMS · CYBERSECURITY · AI ARCHITECTURE**
 
 ### **Thinking Cybersecurity: AI Automation through Diffused Intelligence**
 
-**Status:** Forthcoming
+**Status:** Forthcoming   
+**Publisher:** BPB Publications
 
 Brings together the infrastructure, model, computational, and architectural work into a cybersecurity-centered treatment of increasingly autonomous AI systems.
 
 **Milestone:** *Architectural consolidation through cybersecurity.*
+
+---
 
 ---
 
@@ -340,6 +377,8 @@ Transformers, diffusion models, NLP, cybersecurity automation, and architectural
 **Latent cognition**
 
 Native retrieval, internal representation, memory, symbolic formation, and increasingly complete cognitive architectures.
+
+---
 
 ---
 
