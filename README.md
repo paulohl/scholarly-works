@@ -56,24 +56,24 @@ Each work below preserves its original DOI and links to independent discovery se
 ### Mastering NLP with Hugging Face: Leveraging diffusion models, transformers, and reinforcement learning for generative and analytical systems
 
 - **Author:** Paulo H. Leocadio
-- **ISBN-13 Paperback:** [978-9365893182](https://doi.org/10.6084/m9.figshare.32952530)
-- **ISBN-9 Kindle:** [9365893186](https://www.amazon.com/Mastering-NLP-Hugging-Face-reinforcement-ebook/dp/B0GPJX289Y/ref=tmm_kin_swatch_0)
+- **Amazon Paperback:** [ISBN 978-9365893182](https://doi.org/10.6084/m9.figshare.32952530)
+- **Amazon Kindle:** [ISBN 9365893186](https://www.amazon.com/Mastering-NLP-Hugging-Face-reinforcement-ebook/dp/B0GPJX289Y/ref=tmm_kin_swatch_0)
 - **Local Pre-print PDF path:** `papers/curriculum-induced-symbol-invention-for-emergent-reasoning-primitives-cisi-hypot.pdf`
-- **Papweback:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?_pos=1&_sid=55dd2bae4&_ss=r?variant=44972380848328)
-- **ePub:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380881096)
-- **Papweback + ePub:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380913864)
+- **Publisher Papweback:** [ISBN 9789365893182](https://bpbonline.com/products/mastering-nlp-with-hugging-face?_pos=1&_sid=55dd2bae4&_ss=r?variant=44972380848328)
+- **Publisher ePub:** [eISBN 9789365898057](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380881096)
+- **Publisher Papweback + ePub:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380913864)
 
 ## 2025 
 
 ### Mastering AWS Cloud: Cloud adoption using the AWS cloud computing ecosystem
 
 - **Author:** Paulo H. Leocadio
-- **ISBN-13:** [978-9365890617](https://www.amazon.com/dp/9365890616)
-- **ISBN-9:** [9365890616](https://www.amazon.com/Mastering-AWS-Cloud-computing-ecosystem-ebook/dp/B0FY35J68C/ref=tmm_kin_swatch_0)
+- **Amazon Paperback:** [ISBN 978-9365890617](https://www.amazon.com/dp/9365890616)
+- **Amazon Kindle:** [ISBN 9365890616](https://www.amazon.com/Mastering-AWS-Cloud-computing-ecosystem-ebook/dp/B0FY35J68C/ref=tmm_kin_swatch_0)
 - **Local PDF Pre-print path:** `papers/curriculum-induced-symbol-invention-for-emergent-reasoning-primitives-cisi-hypot.pdf`
-- **Papweback:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?_pos=1&_sid=55dd2bae4&_ss=r?variant=44972380848328)
-- **ePub:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380881096)
-- **Papweback + ePub:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380913864)
+- **Publisher Papweback:** [ISBN 9789365890617](https://bpbonline.com/products/mastering-aws-cloud?variant=44816161931464)
+- **Publisher ePub:** [eISBN 9789365892703](https://bpbonline.com/products/mastering-aws-cloud?variant=44816161964232)
+- **Publisher Papweback + ePub:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380913864)
 
 ## 2024
 
