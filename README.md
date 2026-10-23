@@ -25,6 +25,7 @@ Each work below preserves its original DOI and links to independent discovery se
 
 - **Author:** Paulo H. Leocadio
 - **Landing Page:** [Thinking Cybersecurity](https://zinnia.holdings/paulo-leocadio/2393-3/)
+- **Amazon Hardcover:** [ISBN 1036483274](https://www.amazon.com/dp/1036483274)
 - **Amazon Paperback:** [ISBN 978-1-0364-8327-2]( )
 - **Amazon Kindle:** [ISBN (Ebook) 978-1-0364-8328-9]( )
 - **Local Pre-print PDF path:** `papers/curriculum-induced-symbol-invention-for-emergent-reasoning-primitives-cisi-hypot.pdf`
