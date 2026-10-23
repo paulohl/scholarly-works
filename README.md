@@ -24,8 +24,9 @@ Each work below preserves its original DOI and links to independent discovery se
 ### Thinking Cybersecurity: AI Automation through Diffused Intelligence
 
 - **Author:** Paulo H. Leocadio
-- **Amazon Paperback:** [ISBN 978-1-0364-8327-2](https://doi.org/10.6084/m9.figshare.32952530)
-- **Amazon Kindle:** [ISBN (Ebook) 978-1-0364-8328-9](https://www.amazon.com/Mastering-NLP-Hugging-Face-reinforcement-ebook/dp/B0GPJX289Y/ref=tmm_kin_swatch_0)
+- **Landing Page:** [Thinking Cybersecurity](https://zinnia.holdings/paulo-leocadio/2393-3/)
+- **Amazon Paperback:** [ISBN 978-1-0364-8327-2]( )
+- **Amazon Kindle:** [ISBN (Ebook) 978-1-0364-8328-9]( )
 - **Local Pre-print PDF path:** `papers/curriculum-induced-symbol-invention-for-emergent-reasoning-primitives-cisi-hypot.pdf`
 - **Publisher Papweback:** [ISBN 9789365893182]( )
 - **Publisher ePub:** [eISBN 9781036483289]( )
