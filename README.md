@@ -67,6 +67,7 @@ Each work below preserves its original DOI and links to independent discovery se
 ### Mastering NLP with Hugging Face: Leveraging diffusion models, transformers, and reinforcement learning for generative and analytical systems
 
 - **Author:** Paulo H. Leocadio
+- **Landing Page:** [Mastering NLP with Hugging Face](https://zinnia.holdings/paulo-leocadio/2393-2/)
 - **Amazon Paperback:** [ISBN 978-9365893182](https://doi.org/10.6084/m9.figshare.32952530)
 - **Amazon Kindle:** [ISBN 9365893186](https://www.amazon.com/Mastering-NLP-Hugging-Face-reinforcement-ebook/dp/B0GPJX289Y/ref=tmm_kin_swatch_0)
 - **Local Pre-print PDF path:** `papers/curriculum-induced-symbol-invention-for-emergent-reasoning-primitives-cisi-hypot.pdf`
@@ -79,6 +80,7 @@ Each work below preserves its original DOI and links to independent discovery se
 ### Mastering AWS Cloud: Cloud adoption using the AWS cloud computing ecosystem
 
 - **Author:** Paulo H. Leocadio
+- **Landing Page:** [Mastering AWS Cloud](https://zinnia.holdings/paulo-leocadio/2393-1/)
 - **Amazon Paperback:** [ISBN 978-9365890617](https://www.amazon.com/dp/9365890616)
 - **Amazon Kindle:** [ISBN 9365890616](https://www.amazon.com/Mastering-AWS-Cloud-computing-ecosystem-ebook/dp/B0FY35J68C/ref=tmm_kin_swatch_0)
 - **Local PDF Pre-print path:** `papers/curriculum-induced-symbol-invention-for-emergent-reasoning-primitives-cisi-hypot.pdf`
