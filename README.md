@@ -56,23 +56,24 @@ Each work below preserves its original DOI and links to independent discovery se
 ### Mastering NLP with Hugging Face: Leveraging diffusion models, transformers, and reinforcement learning for generative and analytical systems
 
 - **Author:** Paulo H. Leocadio
-- **ISBN-13:** [978-9365893182](https://doi.org/10.6084/m9.figshare.32952530)
-- **ISBN-9:** base DOI [978-9365893182](https://www.amazon.com/dp/9365893186)
-- **Local PDF path:** `papers/curriculum-induced-symbol-invention-for-emergent-reasoning-primitives-cisi-hypot.pdf`
+- **ISBN-13 Paperback:** [978-9365893182](https://doi.org/10.6084/m9.figshare.32952530)
+- **ISBN-9 Kindle:** [9365893186](https://www.amazon.com/Mastering-NLP-Hugging-Face-reinforcement-ebook/dp/B0GPJX289Y/ref=tmm_kin_swatch_0)
+- **Local Pre-print PDF path:** `papers/curriculum-induced-symbol-invention-for-emergent-reasoning-primitives-cisi-hypot.pdf`
 - **Papweback:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?_pos=1&_sid=55dd2bae4&_ss=r?variant=44972380848328)
 - **ePub:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380881096)
 - **Papweback + ePub:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380913864)
-- [Crossref](https://search.crossref.org/?q=Curriculum-Induced+Symbol+Invention+for+Emergent+Reasoning+Primitives+%28CISI%29+%E2%80%93+Hypothesis+2) · [DataCite](https://commons.datacite.org/doi.org/10.6084/m9.figshare.32952530) · [Scite](https://scite.ai/search?q=Curriculum-Induced+Symbol+Invention+for+Emergent+Reasoning+Primitives+%28CISI%29+%E2%80%93+Hypothesis+2) · [OpenAlex](https://openalex.org/works?search=Curriculum-Induced+Symbol+Invention+for+Emergent+Reasoning+Primitives+%28CISI%29+%E2%80%93+Hypothesis+2)
 
 ## 2025 
 
 ### Mastering AWS Cloud: Cloud adoption using the AWS cloud computing ecosystem
 
 - **Author:** Paulo H. Leocadio
-- **Original DOI:** [10.6084/m9.figshare.32952458](https://doi.org/10.6084/m9.figshare.32952458)
-- **Known Figshare versions in local bibliography:** base DOI only
-- **Local PDF path:** `papers/differentiable-latent-indexing-inside-large-language-models-dli-llm-hypothesis-1.pdf`
-- **Discovery:** [Google Scholar](https://scholar.google.com/scholar?q=Differentiable+Latent+Indexing+inside+Large+Language+Models+%28DLI-LLM%29+-+Hypothesis+1) · [ResearchGate](https://www.researchgate.net/search/publication?q=Differentiable+Latent+Indexing+inside+Large+Language+Models+%28DLI-LLM%29+-+Hypothesis+1) · [Semantic Scholar](https://www.semanticscholar.org/search?q=Differentiable+Latent+Indexing+inside+Large+Language+Models+%28DLI-LLM%29+-+Hypothesis+1&sort=relevance) · [Crossref](https://search.crossref.org/?q=Differentiable+Latent+Indexing+inside+Large+Language+Models+%28DLI-LLM%29+-+Hypothesis+1) · [DataCite](https://commons.datacite.org/doi.org/10.6084/m9.figshare.32952458) · [Scite](https://scite.ai/search?q=Differentiable+Latent+Indexing+inside+Large+Language+Models+%28DLI-LLM%29+-+Hypothesis+1) · [OpenAlex](https://openalex.org/works?search=Differentiable+Latent+Indexing+inside+Large+Language+Models+%28DLI-LLM%29+-+Hypothesis+1) 
+- **ISBN-13:** [978-9365890617](https://www.amazon.com/dp/9365890616)
+- **ISBN-9:** [9365890616](https://www.amazon.com/Mastering-AWS-Cloud-computing-ecosystem-ebook/dp/B0FY35J68C/ref=tmm_kin_swatch_0)
+- **Local PDF Pre-print path:** `papers/curriculum-induced-symbol-invention-for-emergent-reasoning-primitives-cisi-hypot.pdf`
+- **Papweback:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?_pos=1&_sid=55dd2bae4&_ss=r?variant=44972380848328)
+- **ePub:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380881096)
+- **Papweback + ePub:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380913864)
 
 ## 2024
 
