@@ -53,6 +53,27 @@ Each work below preserves its original DOI and links to independent discovery se
 - **Local PDF path:** `papers/Transforming Incident Response.pdf`
 - **Discovery:** [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=10.22541%2Fau.177446759.98281679&btnG=) · [ResearchGate](https://www.researchgate.net/search.Search.html?query=Transforming+Incident+Response%3A+The+Role+of+Hugging+Face+Diffusers+in+Automating+Cybersecurity+Workflows&type=publication) · [Academia.edu](https://www.academia.edu/search?q=Transforming%20Incident%20Response:%20The%20Role%20of%20Hugging%20Face%20Diffusers%20in%20Automating%20Cybersecurity%20Workflows) · [Crossref](https://search.crossref.org/?from_ui=&q=Transforming+Incident+Response%3A+The+Role+of+Hugging+Face+Diffusers+in+Automating+Cybersecurity+Workflows) · [Scite](https://scite.ai/search?mode=all&q=Transforming%20Incident%20Response%3A%20The%20Role%20of%20Hugging%20Face%20Diffusers%20in%20Automating%20Cybersecurity%20Workflows) · [OpenAlex](https://openalex.org/works?search=Transforming+Incident+Response:+The+Role+of+Hugging+Face+Diffusers+in+Automating+Cybersecurity+Workflows&page=1&sort=relevance_score:desc)
 
+### Mastering NLP with Hugging Face: Leveraging diffusion models, transformers, and reinforcement learning for generative and analytical systems
+
+- **Author:** Paulo H. Leocadio
+- **ISBN-13:** [978-9365893182](https://doi.org/10.6084/m9.figshare.32952530)
+- **ISBN-9:** base DOI [978-9365893182](https://www.amazon.com/dp/9365893186)
+- **Local PDF path:** `papers/curriculum-induced-symbol-invention-for-emergent-reasoning-primitives-cisi-hypot.pdf`
+- **Papweback:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?_pos=1&_sid=55dd2bae4&_ss=r?variant=44972380848328)
+- **ePub:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380881096)
+- **Papweback + ePub:** [BPB Online](https://bpbonline.com/products/mastering-nlp-with-hugging-face?variant=44972380913864)
+- [Crossref](https://search.crossref.org/?q=Curriculum-Induced+Symbol+Invention+for+Emergent+Reasoning+Primitives+%28CISI%29+%E2%80%93+Hypothesis+2) · [DataCite](https://commons.datacite.org/doi.org/10.6084/m9.figshare.32952530) · [Scite](https://scite.ai/search?q=Curriculum-Induced+Symbol+Invention+for+Emergent+Reasoning+Primitives+%28CISI%29+%E2%80%93+Hypothesis+2) · [OpenAlex](https://openalex.org/works?search=Curriculum-Induced+Symbol+Invention+for+Emergent+Reasoning+Primitives+%28CISI%29+%E2%80%93+Hypothesis+2)
+
+## 2025 
+
+### Mastering AWS Cloud: Cloud adoption using the AWS cloud computing ecosystem
+
+- **Author:** Paulo H. Leocadio
+- **Original DOI:** [10.6084/m9.figshare.32952458](https://doi.org/10.6084/m9.figshare.32952458)
+- **Known Figshare versions in local bibliography:** base DOI only
+- **Local PDF path:** `papers/differentiable-latent-indexing-inside-large-language-models-dli-llm-hypothesis-1.pdf`
+- **Discovery:** [Google Scholar](https://scholar.google.com/scholar?q=Differentiable+Latent+Indexing+inside+Large+Language+Models+%28DLI-LLM%29+-+Hypothesis+1) · [ResearchGate](https://www.researchgate.net/search/publication?q=Differentiable+Latent+Indexing+inside+Large+Language+Models+%28DLI-LLM%29+-+Hypothesis+1) · [Semantic Scholar](https://www.semanticscholar.org/search?q=Differentiable+Latent+Indexing+inside+Large+Language+Models+%28DLI-LLM%29+-+Hypothesis+1&sort=relevance) · [Crossref](https://search.crossref.org/?q=Differentiable+Latent+Indexing+inside+Large+Language+Models+%28DLI-LLM%29+-+Hypothesis+1) · [DataCite](https://commons.datacite.org/doi.org/10.6084/m9.figshare.32952458) · [Scite](https://scite.ai/search?q=Differentiable+Latent+Indexing+inside+Large+Language+Models+%28DLI-LLM%29+-+Hypothesis+1) · [OpenAlex](https://openalex.org/works?search=Differentiable+Latent+Indexing+inside+Large+Language+Models+%28DLI-LLM%29+-+Hypothesis+1) 
+
 ## 2024
 
 ### Advancements in I​mplantable ​M​e​d​​i​ca​l Devices: A Comprehensive Analysis of Artificial Intelligence Integration, Adoption, and Applicability in Bio?Tech Innovations (Revised Version).
