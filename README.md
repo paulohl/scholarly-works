@@ -12,7 +12,7 @@ Independent research index and preservation layer.
 | **Research Hub:** | [Website](https://zinnia.holdings/paulo-leocadio/paulo-leocadio-research-hub.html)| **ResearchGate:** | [Dashboard](https://www.researchgate.net/) | 
 | **SSRN:** | [Author's Dashboard](https://papers.ssrn.com/) | **Published-work archive:** | [Metadata Repo](https://www.themisfitslair.com/published-work.html) |
 | **Homepage:** | [Personal website](https://paulohleocadio.com/) | **Authorea:** | [Authorea Repo](https://www.authorea.com/) |  
-| **ORCID:** | [0000-0002-4992-4541](https://orcid.org/0000-0002-4992-4541) |
+| **ORCID:** | [0000-0002-4992-4541](https://orcid.org/0000-0002-4992-4541) | **Web of Science:** | [LNQ-5734-2024](https://www.webofscience.com/wos/author/record/LNQ-5734-2024) |
 | **Google Scholar:** | [My Profile](https://scholar.google.com/citations?user=V0GE3N4AAAAJ&hl=en) |
 | **Amazon:** | [Author Profile](amazon.com/author/pauloleocadio) |
 
