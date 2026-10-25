@@ -6,14 +6,15 @@ Independent research index and preservation layer.
 
 ## Research identity
 
-- **Website:** https://zinnia.holdings/paulo-leocadio/
-- **Homepage:** https://paulohleocadio.com/
-- **ORCID:** https://orcid.org/0000-0002-4992-4541
-- **Google Scholar:** https://scholar.google.com/citations?user=V0GE3N4AAAAJ&hl=en
-- **ResearchGate:** https://www.researchgate.net/
-- **SSRN:** https://papers.ssrn.com/
-- **Authorea:** https://www.authorea.com/
-- **Published-work archive:** https://www.themisfitslair.com/published-work.html
+- **Website:** [Research Hub](https://zinnia.holdings/paulo-leocadio/paulo-leocadio-research-hub.html)
+- **Homepage:** [Personal website](https://paulohleocadio.com/)
+- **ORCID:** [0000-0002-4992-4541](https://orcid.org/0000-0002-4992-4541)
+- **Google Scholar:** [My Profile](https://scholar.google.com/citations?user=V0GE3N4AAAAJ&hl=en)
+- **Amazon:** [Author Profil](amazon.com/author/pauloleocadio)
+- **ResearchGate:** [Dashboard](https://www.researchgate.net/)
+- **SSRN:** [Author's Dashboard](https://papers.ssrn.com/)
+- **Authorea:** [Authorea Repo](https://www.authorea.com/)
+- **Published-work archive:** [Metadata Repo](https://www.themisfitslair.com/published-work.html)
 
 ## How to use this index
 
