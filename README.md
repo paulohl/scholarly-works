@@ -116,19 +116,23 @@ Each work below preserves its original DOI and links to independent discovery se
 - **Local  mirror copy path:** `papers/navigating-upwork-understanding-corporate-dynamics-and-unveiling-freelancer-real.pdf`
 - **Discovery:** [Google Scholar](https://scholar.google.com/scholar?q=NAVIGATING+UPWORK%3A+UNDERSTANDING+CORPORATE+DYNAMICS+AND+UNVEILING+FREELANCER+REALITIES+AMID+POLICY+DISRUPTION) · [ResearchGate](https://www.researchgate.net/search/publication?q=NAVIGATING+UPWORK%3A+UNDERSTANDING+CORPORATE+DYNAMICS+AND+UNVEILING+FREELANCER+REALITIES+AMID+POLICY+DISRUPTION) · [Semantic Scholar](https://www.semanticscholar.org/search?q=NAVIGATING+UPWORK%3A+UNDERSTANDING+CORPORATE+DYNAMICS+AND+UNVEILING+FREELANCER+REALITIES+AMID+POLICY+DISRUPTION&sort=relevance) · [Crossref](https://search.crossref.org/?q=NAVIGATING+UPWORK%3A+UNDERSTANDING+CORPORATE+DYNAMICS+AND+UNVEILING+FREELANCER+REALITIES+AMID+POLICY+DISRUPTION) · [DataCite](https://commons.datacite.org/doi.org/10.6084/m9.figshare.26308327) · [Scite](https://scite.ai/search?q=NAVIGATING+UPWORK%3A+UNDERSTANDING+CORPORATE+DYNAMICS+AND+UNVEILING+FREELANCER+REALITIES+AMID+POLICY+DISRUPTION) · [OpenAlex](https://openalex.org/works?search=NAVIGATING+UPWORK%3A+UNDERSTANDING+CORPORATE+DYNAMICS+AND+UNVEILING+FREELANCER+REALITIES+AMID+POLICY+DISRUPTION)
 
-### Advancements in Implantable Medical Devices: A Comprehensive Analysis of Artificial Intelligence Integration, Adoption, and Applicability in Bio-Tech Innovations
-https://www.researchgate.net/publication/377729107_Advancements_in_Implantable_Medical_Devices_A_Comprehensive_Analysis_of_Artificial_Intelligence_Integration_Adoption_and_Applicability_in_Bio-Tech_Innovations
-https://doi.org/10.5121/ijcsit.2024.02101
+### (2024 Revised Version) A Comprehensive Analysis of Artificial Intelligence Integration, Adoption, and Applicability in Bio-Tech Innovations (Revised Version)
 
-### 2024 -Revised Version A Comprehensive Analysis of Artificial Intelligence Integration, Adoption, and Applicability in Bio-Tech Innovations (Revised Version)
-February 2024 https://www.researchgate.net/publication/413585087_2024_-Revised_Version_A_Comprehensive_Analysis_of_Artificial_Intelligence_Integration_Adoption_and_Applicability_in_Bio-Tech_Innovations_Revised_Version
-DOI: 10.6084/M9.FIGSHARE.26277886
-
-### A Comprehensive Analysis of Artificial Intelligence Integration, Adoption, and Applicability in Bio-Tech Innovations (2024 -Revised Version)
-February 2024 https://www.researchgate.net/publication/413585087_2024_-Revised_Version_A_Comprehensive_Analysis_of_Artificial_Intelligence_Integration_Adoption_and_Applicability_in_Bio-Tech_Innovations_Revised_Version
-DOI: 10.6084/m9.figshare.26279518
-
+- **Author:** Paulo H. Leocadio
+- **Original DOI:** [10.6084/M9.FIGSHARE.26277886](https://doi.org/10.6084/M9.FIGSHARE.26277886)
+- **Known versions in local bibliography:** v1
+- **Local  mirror copy path:** `papers/advancements-in-implantable-medical-devices-a-comprehensive-analysis-of-artifici.pdf`
+- **Discovery:** [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=V0GE3N4AAAAJ&cstart=20&pagesize=80&citation_for_view=V0GE3N4AAAAJ:J_g5lzvAfSwC) · [ResearchGate](https://www.researchgate.net/publication/413585087_2024_-Revised_Version_A_Comprehensive_Analysis_of_Artificial_Intelligence_Integration_Adoption_and_Applicability_in_Bio-Tech_Innovations_Revised_Version) 
+ 
 ## 2023
+
+### Advancements in Implantable Medical Devices: A Comprehensive Analysis of Artificial Intelligence Integration, Adoption, and Applicability in Bio-Tech Innovations
+
+- **Author:** Paulo H. Leocadio
+- **Original DOI:** [10.5121/ijcsit.2024.02101](https://doi.org/10.5121/ijcsit.2024.02101)
+- **Known versions in local bibliography:** v1
+- **Local  mirror copy path:** `papers/advancements-in-implantable-medical-devices-a-comprehensive-analysis-of-artifici.pdf`
+- **Discovery:** [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=V0GE3N4AAAAJ&citation_for_view=V0GE3N4AAAAJ:LkGwnXOMwfcC) · [ResearchGate](https://www.researchgate.net/publication/377729107_Advancements_in_Implantable_Medical_Devices_A_Comprehensive_Analysis_of_Artificial_Intelligence_Integration_Adoption_and_Applicability_in_Bio-Tech_Innovations) 
 
 ### Cardiac Pacemakers: The Route to Implantable Artificial Intelligence
 
