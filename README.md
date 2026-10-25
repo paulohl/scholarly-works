@@ -6,15 +6,15 @@ Independent research index and preservation layer.
 
 ## Research identity
 
-- **Website:** [Research Hub](https://zinnia.holdings/paulo-leocadio/paulo-leocadio-research-hub.html)
-- **Homepage:** [Personal website](https://paulohleocadio.com/)
-- **ORCID:** [0000-0002-4992-4541](https://orcid.org/0000-0002-4992-4541)
-- **Google Scholar:** [My Profile](https://scholar.google.com/citations?user=V0GE3N4AAAAJ&hl=en)
-- **Amazon:** [Author Profil](amazon.com/author/pauloleocadio)
-- **ResearchGate:** [Dashboard](https://www.researchgate.net/)
-- **SSRN:** [Author's Dashboard](https://papers.ssrn.com/)
-- **Authorea:** [Authorea Repo](https://www.authorea.com/)
-- **Published-work archive:** [Metadata Repo](https://www.themisfitslair.com/published-work.html)
+| Service | URL | Service | URL |
+| :--- | :--- | :--- | :--- | 
+|      |      |      |      |
+| **Website:** | [Research Hub](https://zinnia.holdings/paulo-leocadio/paulo-leocadio-research-hub.html)| **ResearchGate:** | [Dashboard](https://www.researchgate.net/) | 
+| **SSRN:** | [Author's Dashboard](https://papers.ssrn.com/) | **Published-work archive:** | [Metadata Repo](https://www.themisfitslair.com/published-work.html) |
+| **Homepage:** | [Personal website](https://paulohleocadio.com/) | **Authorea:** | [Authorea Repo](https://www.authorea.com/) |  
+| **ORCID:** | [0000-0002-4992-4541](https://orcid.org/0000-0002-4992-4541) |
+| **Google Scholar:** | [My Profile](https://scholar.google.com/citations?user=V0GE3N4AAAAJ&hl=en) |
+| **Amazon:** | [Author Profil](amazon.com/author/pauloleocadio) |
 
 ## How to use this index
 
