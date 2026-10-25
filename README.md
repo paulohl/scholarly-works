@@ -2,7 +2,7 @@
 
 Independent research index and preservation layer.
 
-> This page is intended to remain a stable discovery surface for Paulo H. Leocadio's research. Some older works were originally deposited with Figshare. Where an original repository record is no longer publicly accessible, the original DOI is retained here as historical scholarly provenance, together with independent discovery routes.
+> This page is intended to remain a stable discovery surface for [Paulo H. Leocadio](https://zinnia.holdings/paulo-leocadio/EngineeringAutonomousAISystem.html)'s research. Some older works were originally deposited with Figshare. Where an original repository record is no longer publicly accessible, the original DOI is retained here as historical scholarly provenance, together with independent discovery routes.
 
 ## Research identity
 
