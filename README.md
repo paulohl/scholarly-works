@@ -30,9 +30,9 @@ Each work below preserves its original DOI and links to independent discovery se
 - **Amazon Paperback:** [ISBN 978-1-0364-8327-2]( )
 - **Amazon Kindle:** [ISBN (Ebook) 978-1-0364-8328-9]( )
 - **Local Pre-print PDF path:** `papers/curriculum-induced-symbol-invention-for-emergent-reasoning-primitives-cisi-hypot.pdf`
-- **Publisher Papweback:** [ISBN 9781036483272]( )
-- **Publisher ePub:** [eISBN 9781036483289]( )
-- **Publisher Papweback + ePub:** [Cambridge Scholars Publishing]( )
+- **Publisher Hardback:** [ISBN 9781036483272](https://www.cambridgescholars.com/product/978-1-0364-8327-2)
+- **Publisher ePub:** [eISBN 9781036483289](https://www.cambridgescholars.com/product/978-1-0364-8327-2)
+- **Publisher Paperback + ePub:** [Cambridge Scholars Publishing]( )
 
 
 ### Curriculum-Induced Symbol Invention for Emergent Reasoning Primitives (CISI) – Hypothesis 2
